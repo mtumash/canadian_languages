@@ -1,2 +1,2 @@
 # canadian_languages
-# Created by Madiyar Tumash
+# Created by Madiyar Tumash UBC
